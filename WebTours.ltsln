@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 4.1.3.0
+Project("B844C469-32F2-4232-B3B3-B8A833DE8F62") = "Vugen_script_1_buy_ticket", "Vugen_script_1_buy_ticket\Vugen_script_1_buy_ticket.usr", "B844C469-32F2-4232-B3B3-B8A833DE8F62"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XFNjcmlwdGluZ1xWdWdlbl9zY3JpcHRfMV9idXlfdGlja2V0XFZ1Z2VuX3NjcmlwdF8xX2J1eV90aWNrZXQudXNyPC9Mb2FkRGF0YT4NCiAgPEZpbGVzPg0KICAgIDxGaWxlPkQ6XFNjcmlwdGluZ1xWdWdlbl9zY3JpcHRfMV9idXlfdGlja2V0XFZ1Z2VuX3NjcmlwdF8xX2J1eV90aWNrZXQudXNyPC9GaWxlPg0KICA8L0ZpbGVzPg0KICA8TW9kaWZpZWQ+MjAyMC0wOS0xOVQwNzo1Nzo0Mi4yNTg0MDkyKzAzOjAwPC9Nb2RpZmllZD4NCjwvUGVyc2lzdGVuY2VUb2tlbj4_
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Project("04397F4F-4186-44F0-8BCA-F5B48C544F70") = "Vugen_script_2_login", "Vugen_script_2_login\Vugen_script_2_login.usr", "04397F4F-4186-44F0-8BCA-F5B48C544F70"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XFNjcmlwdGluZ1xWdWdlbl9zY3JpcHRfMl9sb2dpblxWdWdlbl9zY3JpcHRfMl9sb2dpbi51c3I8L0xvYWREYXRhPg0KICA8RmlsZXM+DQogICAgPEZpbGU+RDpcU2NyaXB0aW5nXFZ1Z2VuX3NjcmlwdF8yX2xvZ2luXFZ1Z2VuX3NjcmlwdF8yX2xvZ2luLnVzcjwvRmlsZT4NCiAgPC9GaWxlcz4NCiAgPE1vZGlmaWVkPjIwMjAtMDktMTlUMTA6Mjk6MTQuMjEzNDY1MiswMzowMDwvTW9kaWZpZWQ+DQo8L1BlcnNpc3RlbmNlVG9rZW4+
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Project("B3F18CAC-8977-4A40-95D8-FEB040FF12BB") = "Vugen_script_3_ticket_deletion", "Vugen_script_3_ticket_deletion\Vugen_script_3_ticket_deletion.usr", "B3F18CAC-8977-4A40-95D8-FEB040FF12BB"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XFNjcmlwdGluZ1xWdWdlbl9zY3JpcHRfM190aWNrZXRfZGVsZXRpb25cVnVnZW5fc2NyaXB0XzNfdGlja2V0X2RlbGV0aW9uLnVzcjwvTG9hZERhdGE+DQogIDxGaWxlcz4NCiAgICA8RmlsZT5EOlxTY3JpcHRpbmdcVnVnZW5fc2NyaXB0XzNfdGlja2V0X2RlbGV0aW9uXFZ1Z2VuX3NjcmlwdF8zX3RpY2tldF9kZWxldGlvbi51c3I8L0ZpbGU+DQogIDwvRmlsZXM+DQogIDxNb2RpZmllZD4yMDIwLTA5LTE5VDEwOjQ5OjE1LjM5NTU3NDkrMDM6MDA8L01vZGlmaWVkPg0KPC9QZXJzaXN0ZW5jZVRva2VuPg__
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Project("BF574A15-F8B0-4F6A-AD55-C13F4F4FB66E") = "Vugen_script_4_account_creation", "Vugen_script_4_account_creation\Vugen_script_4_account_creation.usr", "BF574A15-F8B0-4F6A-AD55-C13F4F4FB66E"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XFNjcmlwdGluZ1xWdWdlbl9zY3JpcHRfNF9hY2NvdW50X2NyZWF0aW9uXFZ1Z2VuX3NjcmlwdF80X2FjY291bnRfY3JlYXRpb24udXNyPC9Mb2FkRGF0YT4NCiAgPEZpbGVzPg0KICAgIDxGaWxlPkQ6XFNjcmlwdGluZ1xWdWdlbl9zY3JpcHRfNF9hY2NvdW50X2NyZWF0aW9uXFZ1Z2VuX3NjcmlwdF80X2FjY291bnRfY3JlYXRpb24udXNyPC9GaWxlPg0KICA8L0ZpbGVzPg0KICA8TW9kaWZpZWQ+MjAyMC0wOS0xOVQxMToxNzoyNS42ODIyMzkzKzAzOjAwPC9Nb2RpZmllZD4NCjwvUGVyc2lzdGVuY2VUb2tlbj4_
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Project("B8EBD18E-D5AE-4C1D-A45F-172CAE61F0BD") = "Vugen_script_5_unfinished_order", "Vugen_script_5_unfinished_order\Vugen_script_5_unfinished_order.usr", "B8EBD18E-D5AE-4C1D-A45F-172CAE61F0BD"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XFNjcmlwdGluZ1xWdWdlbl9zY3JpcHRfNV91bmZpbmlzaGVkX29yZGVyXFZ1Z2VuX3NjcmlwdF81X3VuZmluaXNoZWRfb3JkZXIudXNyPC9Mb2FkRGF0YT4NCiAgPEZpbGVzPg0KICAgIDxGaWxlPkQ6XFNjcmlwdGluZ1xWdWdlbl9zY3JpcHRfNV91bmZpbmlzaGVkX29yZGVyXFZ1Z2VuX3NjcmlwdF81X3VuZmluaXNoZWRfb3JkZXIudXNyPC9GaWxlPg0KICA8L0ZpbGVzPg0KICA8TW9kaWZpZWQ+MjAyMC0wOS0xOVQxMjowNjoyMS4wMTI3OTIyKzAzOjAwPC9Nb2RpZmllZD4NCjwvUGVyc2lzdGVuY2VUb2tlbj4_
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		B844C469-32F2-4232-B3B3-B8A833DE8F62.Debug|Any CPU.Build.0 = Debug|Any CPU
+		B844C469-32F2-4232-B3B3-B8A833DE8F62.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		B844C469-32F2-4232-B3B3-B8A833DE8F62.Release|Any CPU.Build.0 = Release|Any CPU
+		B844C469-32F2-4232-B3B3-B8A833DE8F62.Release|Any CPU.ActiveCfg = Release|Any CPU
+		04397F4F-4186-44F0-8BCA-F5B48C544F70.Debug|Any CPU.Build.0 = Debug|Any CPU
+		04397F4F-4186-44F0-8BCA-F5B48C544F70.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		04397F4F-4186-44F0-8BCA-F5B48C544F70.Release|Any CPU.Build.0 = Release|Any CPU
+		04397F4F-4186-44F0-8BCA-F5B48C544F70.Release|Any CPU.ActiveCfg = Release|Any CPU
+		B3F18CAC-8977-4A40-95D8-FEB040FF12BB.Debug|Any CPU.Build.0 = Debug|Any CPU
+		B3F18CAC-8977-4A40-95D8-FEB040FF12BB.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		B3F18CAC-8977-4A40-95D8-FEB040FF12BB.Release|Any CPU.Build.0 = Release|Any CPU
+		B3F18CAC-8977-4A40-95D8-FEB040FF12BB.Release|Any CPU.ActiveCfg = Release|Any CPU
+		BF574A15-F8B0-4F6A-AD55-C13F4F4FB66E.Debug|Any CPU.Build.0 = Debug|Any CPU
+		BF574A15-F8B0-4F6A-AD55-C13F4F4FB66E.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		BF574A15-F8B0-4F6A-AD55-C13F4F4FB66E.Release|Any CPU.Build.0 = Release|Any CPU
+		BF574A15-F8B0-4F6A-AD55-C13F4F4FB66E.Release|Any CPU.ActiveCfg = Release|Any CPU
+		B8EBD18E-D5AE-4C1D-A45F-172CAE61F0BD.Debug|Any CPU.Build.0 = Debug|Any CPU
+		B8EBD18E-D5AE-4C1D-A45F-172CAE61F0BD.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		B8EBD18E-D5AE-4C1D-A45F-172CAE61F0BD.Release|Any CPU.Build.0 = Release|Any CPU
+		B8EBD18E-D5AE-4C1D-A45F-172CAE61F0BD.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
