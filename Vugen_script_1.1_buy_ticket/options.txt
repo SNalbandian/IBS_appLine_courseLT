@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\Сергей\Documents\GitHub\tiri2\IBS_appLine_courseLT\Vugen_script_1.1_buy_ticket
--ID:\Programm\LoadRunner\include
--ec:\users\сергей\documents\github\tiri2\ibs_appline_courselt\vugen_script_1.1_buy_ticket\\logfile.log
-c:\users\сергей\documents\github\tiri2\ibs_appline_courselt\vugen_script_1.1_buy_ticket\\combined_Vugen_script_1.1_buy_ticket.c
-c:\users\сергей\documents\github\tiri2\ibs_appline_courselt\vugen_script_1.1_buy_ticket\\pre_cci.c
