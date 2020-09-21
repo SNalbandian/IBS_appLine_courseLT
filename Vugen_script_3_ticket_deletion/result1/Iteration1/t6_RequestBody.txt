@@ -1,0 +1,6 @@
+"1=on&flightID=128000397-824-JB&flightID=128000397-1594-JB&flightID=128000397-2363-JB&flightID="
+"128000397-3132-JB&flightID=128000397-3901-JB&flightID=128000397-4671-JB&flightID=128000397-544"
+"0-JB&flightID=128000764-6202-JB&flightID=128000764-6971-JB&flightID=128000397-7747-JB&flightID"
+"=128000397-8517-JB&flightID=128000397-9286-JB&.cgifields=6&.cgifields=11&.cgifields=3&.cgifiel"
+"ds=7&.cgifields=9&.cgifields=12&.cgifields=2&.cgifields=8&.cgifields=1&.cgifields=4&.cgifields"
+"=10&.cgifields=5&removeFlights.x=72&removeFlights.y=9"

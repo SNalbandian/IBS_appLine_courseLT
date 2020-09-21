@@ -69,8 +69,6 @@ Action()
 
 	web_add_auto_header("Sec-Fetch-Site", 
 		"same-origin");
-
-	lr_think_time(18);
 	
 	web_reg_find("Fail=NotFound",
 		"Text=User password was correct",
@@ -94,6 +92,8 @@ Action()
 		LAST);
 
 	lr_end_transaction("login",LR_AUTO);
+	
+	lr_think_time(47);
 
 	lr_start_transaction("click_log_out");
 
@@ -102,8 +102,6 @@ Action()
 
 	web_add_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(47);
 	
 	web_reg_find("Text=Welcome to the Web Tours site.",
 		LAST);

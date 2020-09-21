@@ -35,6 +35,8 @@ Action()
 		LAST);
 
 	lr_end_transaction("goToSite", LR_AUTO);
+	
+	lr_think_time(8);
 
 	lr_start_transaction("click_sign_up_now");
 
@@ -48,8 +50,6 @@ Action()
 	web_add_auto_header("Sec-Fetch-Site", 
 		"same-origin");
 
-	lr_think_time(8);
-
 	web_url("sign up now", 
 		"URL=http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true", 
 		"TargetFrame=body", 
@@ -61,6 +61,8 @@ Action()
 		LAST);
 
 	lr_end_transaction("click_sign_up_now",LR_AUTO);
+	
+	lr_think_time(97);
 
 	lr_start_transaction("first_registration");
 
@@ -72,10 +74,8 @@ Action()
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(97);
 	
-	web_reg_find("Text=\"text\" name=\"{p_userName}\"",
+	web_reg_find("Text={p_userName}",
 		LAST);
 
 	web_submit_data("login.pl", 
@@ -99,14 +99,14 @@ Action()
 		LAST);
 
 	lr_end_transaction("first_registration",LR_AUTO);
-
+	
+	lr_think_time(21);
+	
 	lr_start_transaction("next_step");
 
 	web_revert_auto_header("Sec-Fetch-User");
 
 	web_revert_auto_header("Upgrade-Insecure-Requests");
-
-	lr_think_time(21);
 
 	web_url("button_next.gif", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=menus", 
@@ -119,6 +119,8 @@ Action()
 		LAST);
 
 	lr_end_transaction("next_step",LR_AUTO);
+	
+	lr_think_time(35);
 
 	lr_start_transaction("click_log_out");
 
@@ -127,8 +129,6 @@ Action()
 
 	web_add_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(35);
 	
 	web_reg_find("Text=Welcome to the Web Tours site.",
 		LAST);

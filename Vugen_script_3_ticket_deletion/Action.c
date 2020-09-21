@@ -57,6 +57,8 @@ Action()
 		LAST);
 
 	lr_end_transaction("goToSite", LR_AUTO);
+	
+	lr_think_time(9);
 
 	lr_start_transaction("login");
 
@@ -72,8 +74,6 @@ Action()
 
 	web_add_auto_header("Sec-Fetch-Site", 
 		"same-origin");
-
-	lr_think_time(9);
 	
 	web_reg_find("Fail=NotFound",
 		"Text=User password was correct",
@@ -97,6 +97,8 @@ Action()
 		LAST);
 
 	lr_end_transaction("login",LR_AUTO);
+	
+	lr_think_time(29);
 
 	lr_start_transaction("click_itinerary");
 
@@ -105,8 +107,6 @@ Action()
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(29);
 	
 	web_reg_find("Text=<!-- Flight #1 -->",
 		LAST);
@@ -150,13 +150,13 @@ Action()
 		LAST);
 
 	lr_end_transaction("click_itinerary",LR_AUTO);
+	
+	lr_think_time(39);
 
 	lr_start_transaction("click_cancel_checked");
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
-
-	lr_think_time(39);
 	
 	web_submit_form("web_submit_form",
 		    ITEMDATA,
@@ -211,6 +211,8 @@ Action()
 //		LAST);
 
 	lr_end_transaction("click_cancel_checked",LR_AUTO);
+	
+	lr_think_time(38);
 
 	lr_start_transaction("click_log_out");
 
@@ -218,8 +220,6 @@ Action()
 
 	web_add_header("Sec-Fetch-User", 
 		"?1");
-
-	lr_think_time(38);
 
 	web_url("SignOff Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 

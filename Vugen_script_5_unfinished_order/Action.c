@@ -60,6 +60,8 @@ web_reg_save_param_ex(
 	
 	lr_end_transaction("goToSite", LR_AUTO);
 	
+	lr_think_time(25);
+	
 	lr_start_transaction("login");
 
 	web_revert_auto_header("Sec-Fetch-User");
@@ -74,8 +76,6 @@ web_reg_save_param_ex(
 
 	web_add_auto_header("Sec-Fetch-Site", 
 		"same-origin");
-
-	lr_think_time(25);
 	
 	web_reg_find("Fail=NotFound",
 		"Text=User password was correct",
@@ -99,6 +99,8 @@ web_reg_save_param_ex(
 		LAST);
 
 	lr_end_transaction("login",LR_AUTO);
+	
+	lr_think_time(36);
 
 	lr_start_transaction("click_flights");
 
@@ -107,8 +109,6 @@ web_reg_save_param_ex(
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(36);
 
 	web_url("Search Flights Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=search", 
@@ -121,13 +121,13 @@ web_reg_save_param_ex(
 		LAST);
 
 	lr_end_transaction("click_flights",LR_AUTO);
+	
+	lr_think_time(46);
 
 	lr_start_transaction("find_flight");
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
-
-	lr_think_time(46);
 	
 	web_reg_find(lr_eval_string("Text/DIG=From {depart} (#) To {arrive} (#)"),
 		LAST);
@@ -157,6 +157,8 @@ web_reg_save_param_ex(
 		LAST);
 
 	lr_end_transaction("find_flight",LR_AUTO);
+	
+	lr_think_time(40);
 
 	lr_start_transaction("click_log_out");
 
@@ -164,8 +166,6 @@ web_reg_save_param_ex(
 
 	web_add_header("Sec-Fetch-User", 
 		"?1");
-
-	lr_think_time(40);
 	
 	web_reg_find("Text=Welcome to the Web Tours site.",
 		LAST);
