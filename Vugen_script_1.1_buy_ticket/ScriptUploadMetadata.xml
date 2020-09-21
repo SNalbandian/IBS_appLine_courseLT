@@ -13,6 +13,12 @@
     <FileEntry Name="default.usp" Filter="4" />
     <FileEntry Name="Vugen_script_1.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="combined_Vugen_script_1.1_buy_ticket.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="105676485440.idx" Filter="1" />
+    <FileEntry Name="22246162440.idx" Filter="1" />
+    <FileEntry Name="226912767440.idx" Filter="1" />
+    <FileEntry Name="90479768440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -22,6 +28,14 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="login.dat" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv2Qe.297.log" Filter="1" />
+    <FileEntry Name="mdrvDd5.693.log" Filter="1" />
+    <FileEntry Name="mdrvgXT.169.log" Filter="1" />
+    <FileEntry Name="mdrvNmB.765.log" Filter="1" />
+    <FileEntry Name="mdrvSk2.731.log" Filter="1" />
+    <FileEntry Name="mdrvw5W.199.log" Filter="1" />
+    <FileEntry Name="mdrvxkl.807.log" Filter="1" />
+    <FileEntry Name="mdrvYYs.595.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />
@@ -32,7 +46,10 @@
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="Vugen_script_1.1_buy_ticket.c.pickle" Filter="1" />
+    <FileEntry Name="Vugen_script_1.1_buy_ticket.ci" Filter="1" />
     <FileEntry Name="Vugen_script_1.1_buy_ticket.prm" Filter="1" />
+    <FileEntry Name="Vugen_script_1.1_buy_ticket.prm.bak" Filter="1" />
     <FileEntry Name="Vugen_script_1.1_buy_ticket.sdf" Filter="1" />
     <FileEntry Name="Vugen_script_1_buy_ticket.prm.bak" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />

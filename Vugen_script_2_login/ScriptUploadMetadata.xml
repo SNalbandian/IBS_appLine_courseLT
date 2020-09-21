@@ -17,6 +17,7 @@
     <FileEntry Name="combined_Vugen_script_2_login.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
+    <FileEntry Name="213936958440.idx" Filter="1" />
     <FileEntry Name="251343593440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
@@ -40,7 +41,6 @@
     <FileEntry Name="Vugen_script_2_login.ci" Filter="1" />
     <FileEntry Name="Vugen_script_2_login.prm.bak" Filter="1" />
     <FileEntry Name="Vugen_script_2_login.sdf" Filter="1" />
-    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>

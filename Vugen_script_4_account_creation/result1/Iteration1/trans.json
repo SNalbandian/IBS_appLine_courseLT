@@ -1,32 +1,32 @@
 [
     {
         "transactionName": "goToSite",
-        "rawStartTime": 1600617012085,
-        "rawEndTime": 1600617013122
+        "rawStartTime": 1600720430077,
+        "rawEndTime": 1600720430568
     },
     {
         "transactionName": "click_sign_up_now",
-        "rawStartTime": 1600617013124,
-        "rawEndTime": 1600617013221
+        "rawStartTime": 1600720430572,
+        "rawEndTime": 1600720430683
     },
     {
         "transactionName": "first_registration",
-        "rawStartTime": 1600617013223,
-        "rawEndTime": 1600617013320
+        "rawStartTime": 1600720430687,
+        "rawEndTime": 1600720430833
     },
     {
         "transactionName": "next_step",
-        "rawStartTime": 1600617013322,
-        "rawEndTime": 1600617013498
+        "rawStartTime": 1600720430838,
+        "rawEndTime": 1600720431125
     },
     {
         "transactionName": "click_log_out",
-        "rawStartTime": 1600617013500,
-        "rawEndTime": 1600617013706
+        "rawStartTime": 1600720431129,
+        "rawEndTime": 1600720431260
     },
     {
         "transactionName": "UC_4_Account_creation",
-        "rawStartTime": 1600617012084,
-        "rawEndTime": 1600617013708
+        "rawStartTime": 1600720430076,
+        "rawEndTime": 1600720431263
     }
 ]

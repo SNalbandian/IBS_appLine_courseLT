@@ -17,9 +17,9 @@
     <FileEntry Name="combined_Vugen_script_4_account_creation.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
-    <FileEntry Name="11324120440.idx" Filter="1" />
-    <FileEntry Name="129204587440.idx" Filter="1" />
-    <FileEntry Name="60594670440.idx" Filter="1" />
+    <FileEntry Name="251979349440.idx" Filter="1" />
+    <FileEntry Name="73739954440.idx" Filter="1" />
+    <FileEntry Name="85764123440.idx" Filter="1" />
     <FileEntry Name="addres" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
@@ -46,7 +46,6 @@
     <FileEntry Name="Vugen_script_4_account_creation.ci" Filter="1" />
     <FileEntry Name="Vugen_script_4_account_creation.prm.bak" Filter="1" />
     <FileEntry Name="Vugen_script_4_account_creation.sdf" Filter="1" />
-    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>

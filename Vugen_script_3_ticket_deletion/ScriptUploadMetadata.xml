@@ -17,8 +17,8 @@
     <FileEntry Name="combined_Vugen_script_3_ticket_deletion.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
-    <FileEntry Name="208221627440.idx" Filter="1" />
-    <FileEntry Name="225284208440.idx" Filter="1" />
+    <FileEntry Name="112152791440.idx" Filter="1" />
+    <FileEntry Name="144786760440.idx" Filter="1" />
     <FileEntry Name="251343593440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
@@ -41,7 +41,6 @@
     <FileEntry Name="Vugen_script_3_ticket_deletion.ci" Filter="1" />
     <FileEntry Name="Vugen_script_3_ticket_deletion.prm.bak" Filter="1" />
     <FileEntry Name="Vugen_script_3_ticket_deletion.sdf" Filter="1" />
-    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>
