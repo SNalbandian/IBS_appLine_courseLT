@@ -1,7 +1,33 @@
 ﻿[ErrorsDataSupervisor_BasicInfo]
-NumFilters=1
+NumFilters=2
 
 [AdditionalFilter0]
+DimensionType=Discrete
+InternalDimName=Event Name
+Dimension=Transaction Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=15
+UseEscapeSequence=1
+DimCount=15
+Dim_0=choose_flight
+Dim_1=click_cancel_checked
+Dim_2=click_find_flight
+Dim_3=click_flights
+Dim_4=click_itinerary
+Dim_5=click_log_out
+Dim_6=click_sign_up_now
+Dim_7=fill_payment_details
+Dim_8=find_flight
+Dim_9=first_registration
+Dim_10=UC_1_Buy_Ticket
+Dim_11=UC_2_Login
+Dim_12=UC_4_Account_creation
+Dim_13=UC_5_Unfinished_order
+Dim_14=Vugen_script_3_ticket_deletion
+LikeMode=0
+
+[AdditionalFilter1]
 DimensionType=Continuous
 InternalDimName=End Time
 Dimension=Scenario Elapsed Time

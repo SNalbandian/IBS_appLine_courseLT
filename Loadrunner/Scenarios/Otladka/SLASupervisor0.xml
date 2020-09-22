@@ -11,11 +11,11 @@
 <a2:ArrayList id="ref-5" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
 <_items href="#ref-7"/>
 <_size>0</_size>
-<_version>0</_version>
+<_version>7</_version>
 </a2:ArrayList>
 <a5:TSLADataProvider id="ref-6" xmlns:a5="http://schemas.microsoft.com/clr/nsassem/SLADataProvider/Analysis.SLA">
 </a5:TSLADataProvider>
-<SOAP-ENC:Array id="ref-7" SOAP-ENC:arrayType="xsd:anyType[0]">
+<SOAP-ENC:Array id="ref-7" SOAP-ENC:arrayType="xsd:anyType[8]">
 </SOAP-ENC:Array>
 </SOAP-ENV:Body>
 </SOAP-ENV:Envelope>
