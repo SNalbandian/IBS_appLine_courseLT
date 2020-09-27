@@ -18,6 +18,9 @@
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="132818212440.idx" Filter="1" />
+    <FileEntry Name="226926432440.idx" Filter="1" />
+    <FileEntry Name="235001895440.idx" Filter="1" />
+    <FileEntry Name="244372183440.idx" Filter="1" />
     <FileEntry Name="251343593440.idx" Filter="1" />
     <FileEntry Name="7000073440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
@@ -29,6 +32,7 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvmSa.787.log" Filter="1" />
     <FileEntry Name="mdrvZAq.921.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />

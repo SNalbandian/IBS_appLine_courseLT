@@ -124,7 +124,7 @@ web_reg_save_param_ex(
 	
 	lr_think_time(46);
 
-	lr_start_transaction("find_flight");
+	lr_start_transaction("click_find_flight");
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
@@ -156,7 +156,7 @@ web_reg_save_param_ex(
 		"Name=.cgifields", "Value=seatPref", ENDITEM, 
 		LAST);
 
-	lr_end_transaction("find_flight",LR_AUTO);
+	lr_end_transaction("click_find_flight",LR_AUTO);
 	
 	lr_think_time(40);
 

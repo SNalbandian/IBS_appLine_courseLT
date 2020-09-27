@@ -124,13 +124,13 @@ web_reg_save_param_ex(
 		LAST);
 
 	lr_end_transaction("click_flights",LR_AUTO);
+	
+	lr_think_time(36);
 
 	lr_start_transaction("click_find_flight");
 
 	web_add_auto_header("Origin", 
 		"http://localhost:1080");
-
-	lr_think_time(36);
 
 /*Correlation comment: Automatic rules - Do not change!  
 Original value='020;635;09/20/2020' 

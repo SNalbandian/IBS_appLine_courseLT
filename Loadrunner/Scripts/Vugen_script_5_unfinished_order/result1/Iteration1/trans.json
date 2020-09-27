@@ -1,32 +1,32 @@
 [
     {
         "transactionName": "goToSite",
-        "rawStartTime": 1600508214818,
-        "rawEndTime": 1600508216209
+        "rawStartTime": 1601046412079,
+        "rawEndTime": 1601046412942
     },
     {
         "transactionName": "login",
-        "rawStartTime": 1600508216211,
-        "rawEndTime": 1600508216353
+        "rawStartTime": 1601046412946,
+        "rawEndTime": 1601046413230
     },
     {
         "transactionName": "click_flights",
-        "rawStartTime": 1600508216356,
-        "rawEndTime": 1600508216502
+        "rawStartTime": 1601046413234,
+        "rawEndTime": 1601046413442
     },
     {
-        "transactionName": "find_flight",
-        "rawStartTime": 1600508216504,
-        "rawEndTime": 1600508216625
+        "transactionName": "click_find_flight",
+        "rawStartTime": 1601046413447,
+        "rawEndTime": 1601046413532
     },
     {
         "transactionName": "click_log_out",
-        "rawStartTime": 1600508216627,
-        "rawEndTime": 1600508216864
+        "rawStartTime": 1601046413536,
+        "rawEndTime": 1601046413675
     },
     {
         "transactionName": "UC_5_Unfinished_order",
-        "rawStartTime": 1600508214817,
-        "rawEndTime": 1600508216866
+        "rawStartTime": 1601046412077,
+        "rawEndTime": 1601046413677
     }
 ]

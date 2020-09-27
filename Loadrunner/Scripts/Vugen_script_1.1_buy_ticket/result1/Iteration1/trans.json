@@ -1,47 +1,47 @@
 [
     {
         "transactionName": "goToSite",
-        "rawStartTime": 1600701964809,
-        "rawEndTime": 1600701965566
+        "rawStartTime": 1601055168677,
+        "rawEndTime": 1601055169523
     },
     {
         "transactionName": "login",
-        "rawStartTime": 1600701965568,
-        "rawEndTime": 1600701965751
+        "rawStartTime": 1601055169528,
+        "rawEndTime": 1601055169729
     },
     {
         "transactionName": "click_flights",
-        "rawStartTime": 1600701965753,
-        "rawEndTime": 1600701965903
+        "rawStartTime": 1601055169733,
+        "rawEndTime": 1601055169891
     },
     {
         "transactionName": "click_find_flight",
-        "rawStartTime": 1600701965905,
-        "rawEndTime": 1600701966019
+        "rawStartTime": 1601055169895,
+        "rawEndTime": 1601055170015
     },
     {
         "transactionName": "choose_flight",
-        "rawStartTime": 1600701966023,
-        "rawEndTime": 1600701966115
+        "rawStartTime": 1601055170020,
+        "rawEndTime": 1601055170159
     },
     {
         "transactionName": "fill_payment_details",
-        "rawStartTime": 1600701966117,
-        "rawEndTime": 1600701966390
+        "rawStartTime": 1601055170162,
+        "rawEndTime": 1601055170311
     },
     {
         "transactionName": "click_itinerary",
-        "rawStartTime": 1600701966392,
-        "rawEndTime": 1600701966553
+        "rawStartTime": 1601055170315,
+        "rawEndTime": 1601055170600
     },
     {
         "transactionName": "click_log_out",
-        "rawStartTime": 1600701966555,
-        "rawEndTime": 1600701966674
+        "rawStartTime": 1601055170603,
+        "rawEndTime": 1601055170883
     },
     {
         "transactionName": "UC_1_Buy_Ticket",
-        "rawStartTime": 1600701964807,
-        "rawEndTime": 1600701966676
+        "rawStartTime": 1601055168656,
+        "rawEndTime": 1601055170885
     }
 ]
