@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--ID:\Scripting\Vugen_script_1.1_buy_ticket
--ID:\Programm\LoadRunner\include
--ed:\scripting\vugen_script_1.1_buy_ticket\\logfile.log
-d:\scripting\vugen_script_1.1_buy_ticket\\combined_Vugen_script_1.1_buy_ticket.c
-d:\scripting\vugen_script_1.1_buy_ticket\\pre_cci.c
